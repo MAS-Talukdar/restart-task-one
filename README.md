@@ -27,5 +27,5 @@ Block Scope: যে variable { } block এর ভিতরে let বা const �
 
 ## 🔗 Submission
 
-- **Live Link :** YOUR_DEPLOYED_URL_HERE
-- **GitHub Repository:** YOUR_REPO_URL_HERE
+- **Live Link :** (https://mas-talukdar.github.io/restart-task-one/)
+- **GitHub Repository:** (https://github.com/MAS-Talukdar/restart-task-one)
